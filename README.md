@@ -9,5 +9,5 @@ Since Midjourney is constantly coming up with new features and additions, this o
 You can find an accompanying [article on Medium](https://bootcamp.uxdesign.cc/the-midjourney-cheat-sheet-v5-2-34b65cb90ea3) featuring a text version and an automation workflow to [turn ChatGPT into a Midjourney prompt generator](https://medium.com/the-generator/turn-chatgpt-into-a-midjourney-prompt-generator-a-step-by-step-guide-d447479f8a48)
 
 ---
-tristwolff.medium.com
+tristwolff.medium.com //
 twitter.com/tristwolff
